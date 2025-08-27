@@ -15,7 +15,7 @@ Una aplicación web interactiva desarrollada con React que permite explorar las 
 
 ## 🚀 Demo en Vivo
 
-🔗 **[https://01-005-rick-morty-location-explorer.netlify.app/](https://01-005-rick-morty-location-explorer.netlify.app/)**
+🔗 **[https://00005-rick-morty-location-explorer.netlify.app/](https://00005-rick-morty-location-explorer.netlify.app/)**
 
 ## 🛠️ Tecnologías Utilizadas
 
